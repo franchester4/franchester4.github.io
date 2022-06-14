@@ -5,3 +5,17 @@
     margin: auto;
     width: 30%;
 }
+
+.item p, img {
+    display: inline-block;
+}
+
+.manifesto {
+    text-align: left;
+    width: 50%;
+}
+
+.face {
+    text-align: right;
+    width: 50%;
+}
